@@ -1,8 +1,8 @@
-#🤖 Bot Kasir Telegram (Multi-Tenant)
+# Bot Kasir Telegram (Multi-Tenant) 🤖
 Selamat datang di Bot Kasir Telegram! Ini adalah sebuah sistem Point of Sale (POS) lengkap yang berjalan di atas platform Telegram, dirancang untuk mengelola usaha Anda dengan mudah dan efisien. Bot ini bersifat multi-tenant, artinya setiap pengguna yang mendaftar akan memiliki database dan datanya sendiri yang sepenuhnya terpisah.
 
 
-#✨ Fitur Utama
+# Fitur Utama ✨ 
 
 ✅ Sistem Multi-Akun: Setiap pengguna memiliki data (menu, penjualan, stok) yang terpisah dan aman.
 
@@ -19,7 +19,7 @@ Selamat datang di Bot Kasir Telegram! Ini adalah sebuah sistem Point of Sale (PO
 ✅ Keamanan: Login berbasis username/password dan token rahasia yang disimpan dengan aman.
 
 
-#🚀 Instalasi & Cara Menjalankan
+# Instalasi & Cara Menjalankan 🚀
 Tutorial ini akan memandu Anda untuk memasang dan menjalankan bot di lingkungan baru.
 
 1. Prasyarat
