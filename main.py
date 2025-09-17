@@ -1,8 +1,3 @@
-# =====================================================================================
-# SCRIPT LENGKAP BOT KASIR V8 (Final & Teruji)
-# DIBUAT DENGAN BANTUAN GOOGLE GEMINI
-# =====================================================================================
-
 import os
 import json
 import logging
