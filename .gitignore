@@ -1,0 +1,8 @@
+# File konfigurasi yang berisi token rahasia
+.env
+
+# File data pengguna
+*.json
+
+# Folder cache Python
+__pycache__/
